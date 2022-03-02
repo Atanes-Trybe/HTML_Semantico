@@ -10,7 +10,10 @@ Quando o [HTML](https://www.w3schools.com/html/) foi inventado, sua principal fu
 
 Obs.: Muitos programadores ainda usam tag's como `div` e `span` para fazer a separação dos conteúdos e ou criar containers para agrupar elementos no HTML o que é um erro e uma má prática no mundo de desenvolvimento de sistemas WEB.
 
-IMAGEM
+Exemplos:
+![Project Gif](./images/semantic-search-1.webp)
+
+![Project Gif](./images/semantica_HTML.jpeg)
 
 ## As principais TAG's semânticas do HTML
 
@@ -59,3 +62,6 @@ A tag `<footer>`
 Indica o rodapé do conteúdo. É a tag utilizada para o rodapé da página ou até de rodapé para artigos.
 
 Normalmente utilizada para inserir a autoria da página, assim como contatos e data de criação de conteúdos.
+
+Exemplo de estrutura de página semântica no HTML5:
+![Project Gif](./images/head_and_footer.jpeg)
