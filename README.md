@@ -65,3 +65,5 @@ Normalmente utilizada para inserir a autoria da página, assim como contatos e d
 
 Exemplo de estrutura de página semântica no HTML5:
 ![Project Gif](./images/head_and_footer.jpeg)
+  
+Mais informações sobre HTML e suas tag's você encontra aqui na [documentação da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) ou no site da [W3Schools](https://www.w3schools.com/html/) que são as principais referncias no assunto!
