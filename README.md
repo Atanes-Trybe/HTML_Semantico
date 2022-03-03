@@ -34,7 +34,7 @@ E ai você poderia perguntar: “Qual seria a diferença de uma `<section>` e um
 
 Basicamente a diferença está na forma com as duas dividem seus conteúdos, a `<section>` consegue separar os conteúdos de forma diferente das `<div>`, por exemplo, ao utilizar um título `<h1 a h6>` em uma `<div>` não podemos repetir o mesmo titulo para varias `<div>` diferentes pois ao passar essa página pela pesquisa do google, algumas informações da página na busca poderiam se perder.
 
-Já com a `<section>` podemos utilizar o mesmo título, pois a `<section>` separa seus conteúdos por seções e isso faz toda a diferença em mecanismos de buscae as informações não se perdem no processo.
+Já com a `<section>` podemos utilizar o mesmo título, pois a `<section>` separa seus conteúdos por seções e isso faz toda a diferença em mecanismos de busca e as informações não se perdem no processo.
   
 A tag `<article>`
 É usada para representar um artigo dentro do conteúdo. Pode ser uma citação de textos externos, ou referências, geralmente também usamos um título para essa tag.
@@ -43,7 +43,7 @@ A tag `<nav>`
 Usamos para menus interativos, como por exemplo menus que encaminham a página de “sobre” ou “produtos”. O `<nav>` pode ser usado em qualquer momento na página, onde tenhamos agrupamento de links.
   
 A tag `<main>`
-É o principal elemento e basicamente indica aos leitores de tela e navegadores a parte que contém a seção principal do documento. Para melhor uso, só devemos ter um `<main>` por página, onde iremos apontar o conteúdo de maior relevância, sendo textos, imagens, links, etc.
+É o principal elemento e basicamente indica aos leitores de tela e navegadores a parte que contém a seção principal do documento. Para melhor uso, só devemos ter um `<main>` por página, onde iremos apontar o conteúdo de maior relevância, podendo conter textos, imagens, links, etc.
 
 Essa tag facilitou muito a compreensão para leitores de tela, já que enfatiza o texto dentro da tag, deixando clara sua importância.
 
