@@ -1,7 +1,7 @@
 # Repositório: HTML_Semantico
 O que é HTML Semântico e sua importância!
 
-## O que é HTML semântico?
+## O que é HTML semântico? 🤔
 Vamos começar pela palavra **semântica** que, de forma resumida, é o estudo do significado e interpretação de palavras segundo o [Wikipédia](https://pt.wikipedia.org/wiki/Sem%C3%A2ntica) 
 
 Quando aplicamos isso ao HTML, tornamos a estrutura de documentos escritos em HTML mais claros para os navegadores da WEB, para sistemas de busca do tipo **SEO (Search Engine Optimization)**, facilitamos o entendimento de outros programadores na hora de fazer uma manutenção na página e permitimos que leitores de tela consigam interpretar o HTML de forma semântica, o que colabora, e muito, para a acessibilidade de pessoas com alguma limitação visual e ou auditiva que utilizam esses leitores para acessar as páginas WEB.
@@ -66,4 +66,6 @@ Normalmente utilizada para inserir a autoria da página, assim como contatos e d
 Exemplo de estrutura de página semântica no HTML5:
 ![Project Gif](./images/head_and_footer.jpeg)
   
-Mais informações sobre HTML e suas tag's você encontra aqui na [documentação da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) ou no site da [W3Schools](https://www.w3schools.com/html/) que são as principais referncias no assunto!
+Mais informações sobre HTML e suas tag's você encontra aqui na [documentação da mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) ou no site da [W3Schools](https://www.w3schools.com/html/) que são as principais referncias no assunto! 🧑‍🏫
+
+Obs.: Sua contribuição é sempre bem vinda, por isso, se tiver alguma sugestão de melhoria e ou recomendação de ajuste/mudança das informações desse repositório, fique a vontade para abrir uma [ISSUE](https://github.com/Atanes-Trybe/HTML_Semantico/issues) que ficarei muito feliz em receber suas sugestões, criticas e comentários!! 😊
